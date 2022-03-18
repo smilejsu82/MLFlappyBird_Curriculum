@@ -1,0 +1,10 @@
+https://github.com/Unity-Technologies/ml-agents/blob/main/docs/Training-Configuration-File.md
+https://www.youtube.com/watch?v=fz8D0OZkQGQ
+https://github.com/Unity-Technologies/ml-agents/blob/main/docs/Training-Configuration-File.md
+https://github.com/Unity-Technologies/ml-agents/blob/main/docs/Training-ML-Agents.md
+https://medium.com/aureliantactics/understanding-ppo-plots-in-tensorboard-cbc3199b9ba2
+https://github.com/Unity-Technologies/ml-agents/blob/main/docs/Using-Tensorboard.md
+http://mwultong.blogspot.com/2008/01/exponential-scientific-notation-convert.html
+https://docs.unity3d.com/Packages/com.unity.ml-agents@1.0/api/Unity.MLAgents.Agent.html
+http://www.yamllint.com/
+https://github.com/smilejsu82/MLFlappyBird_Curriculum
